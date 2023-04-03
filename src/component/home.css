@@ -1,0 +1,41 @@
+.home-page{
+    width: 100%;
+    max-width: 420px;
+    padding: 15px;
+    margin: auto;
+    background-color: #01131B;
+    min-height: 300px;
+}
+
+.section-class{
+    padding: 10px;
+}
+
+.ordered-list{
+    padding: 10px;
+    border-bottom: 1px dotted #ececec;
+    color: #fff;
+    text-decoration: underline;
+}
+
+.ordered-list:hover{
+    padding: 10px;
+    border-bottom: 1px dotted #ececec;
+    color: #fff;
+    text-decoration: none;
+}
+
+.title-text{
+    font-size:14px;
+    font-family: 'Segoe UI';
+}
+
+.sub-title-text-green{
+    font-size:10px;
+    color: #34B71F;
+}
+
+.sub-title-text-red{
+    font-size:10px;
+    color: #F3392F;
+}
